@@ -26,37 +26,21 @@ $ python wgan.py
 
 ## 实验结果
 
+### loss 曲线
+
+#### Discriminator & Generator
+
+<img src="images/loss_d.png" alt="1" style="zoom:50%;" /> <img src="images/loss_g.png" alt="2" style="zoom:50%;" />
+
 ### WGAN
 
-<img src="images/1.png" alt="1" style="zoom:50%;" />
-
-<img src="images/2.png" alt="2" style="zoom:50%;" />
-
-<img src="images/3.png" alt="3" style="zoom:50%;" />
+<img src="images/1.png" alt="1" style="zoom:33%;" /> <img src="images/2.png" alt="2" style="zoom:33%;" /> <img src="images/3.png" alt="3" style="zoom:33%;" />
 
 ### WGAN-GP
 
-<img src="images/4.png" alt="4" style="zoom:50%;" />
-
-<img src="images/5.png" alt="5" style="zoom:50%;" />
-
-<img src="images/6.png" alt="6" style="zoom:50%;" />
+<img src="images/4.png" alt="4" style="zoom:33%;" /> <img src="images/5.png" alt="5" style="zoom:33%;" /> <img src="images/6.png" alt="6" style="zoom:33%;" />
 
 ### WGAN-DIV
 
-<img src="images/7.png" alt="7" style="zoom:50%;" />
-
-<img src="images/8.png" alt="8" style="zoom:50%;" />
-
-<img src="images/9.png" alt="9" style="zoom:50%;" />
-
-### loss 曲线
-
-#### Discriminator
-
-![loss_d](images/loss_d.png)
-
-#### Generator
-
-![loss_g](images/loss_g.png)
+<img src="images/7.png" alt="7" style="zoom:33%;" /> <img src="images/8.png" alt="8" style="zoom:33%;" /> <img src="images/9.png" alt="9" style="zoom:33%;" />
 
